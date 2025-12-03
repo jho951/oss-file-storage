@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+subprojects {
+    apply plugin: 'java-library'
+
+    group = 'com.file-storage'
+    version = '1.0.0'
+
+    ext.junit = '5.10.0'
+
+    java {
+        toolchain {
+            languageVersion = JavaLanguageVersion.of(17)
+        }
+    }
+
+    repositories {
+        mavenCentral()
+    }
+}

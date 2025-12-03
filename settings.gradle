@@ -1,0 +1,5 @@
+rootProject.name = 'file-storage'
+
+include 'api'
+include 'core'
+include 'config'
