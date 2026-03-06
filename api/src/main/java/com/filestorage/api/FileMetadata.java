@@ -1,8 +1,6 @@
 package com.filestorage.api;
 
-/**
- * 파일 저장 요청 시 전달하는 메타데이터를 표현합니다.
- */
+/**파일 저장 요청 시 전달하는 메타데이터를 표현합니다.*/
 public final class FileMetadata {
 
 	private final String originalName;
