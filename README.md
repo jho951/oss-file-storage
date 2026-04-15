@@ -2,7 +2,7 @@
 
 [![Build](https://github.com/jho951/file-storage/actions/workflows/build.yml/badge.svg)](https://github.com/jho951/file-storage/actions/workflows/build.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.jho951/file-storage-core?label=maven%20central)](https://central.sonatype.com/search?q=jho951)
-[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue)](./LICENSE)
 [![Tag](https://img.shields.io/github/v/tag/jho951/file-storage)](https://github.com/jho951/file-storage/tags)
 
 ## 공개 좌표
